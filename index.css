@@ -286,7 +286,7 @@ a {
   background-image: url("cha.jpg.png");
   width: 108px;
   height: 40px;
-  padding-top:130px;
+  padding-top:300px;
   margin: 0 auto;
   position: relative;
   background-repeat: no-repeat;
@@ -324,21 +324,43 @@ a {
 
       .apresentar h1 {
         font-size: 30px;
-        margin-bottom: 20px; 
+        margin-bottom: 50px; 
       }
       .apresentar h2  {
         font-size: 12px;
-        margin: 10px;
+        margin: 30px 50px 0 50px;
+        line-height: 18px;
+
       }
 
       .apresentar li {
         font-size: 12px;
-        margin: 8px;
+        margin: 0 40px;
+        line-height: 18px;
       }
 
-      .borda {
-        padding: 100px;
+    
+      .email p {
+        font-size: 12px;
+      
+      
+           }
+      .email h3 {
+        padding-top: 10px;
+      }
+      .chuva {
+        width: 50px;
+  height: 60px;
+  padding-top: 150px;
+      }
+      .cha {
+         width: 50px;
+  padding-top: 150px;
+      }
+
+      .fotos{
         margin: 0 auto;
         position: relative;
-      }
+        width: 80%;
+             }
     }
